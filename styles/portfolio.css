@@ -84,7 +84,6 @@ main{
 
 }
 .section-title{
-    
     margin-bottom: 25px;
     font-weight: 700;
     font-size: 35px;
@@ -135,4 +134,7 @@ main{
 .skills-description{
     color: #474747;
     font-size: 18px;
+}
+.resume .section-title{
+    text-align: center;
 }
