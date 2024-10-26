@@ -18,7 +18,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 40px 170px;
+    padding: 40px 170px;
 }
 nav ul{
     display: flex;
